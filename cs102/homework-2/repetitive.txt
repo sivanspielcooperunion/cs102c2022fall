@@ -4,16 +4,7 @@ sept.7.2022*/
 
 
 #include <stdio.h>
-int main( int argc, char **argv)
-
-{
-int i = 0;
- int sum = 0;
- while( i < 50 )
- {
-
-
-fprintf( stdout, "scream for 5 seconds\n");
+int main( int argc, char **ar stdout, "scream for 5 seconds\n");
 
 fprintf( stdout, "hold for 5 seconds\n");
 fprintf( stdout, "scream for 5 seconds\n");
