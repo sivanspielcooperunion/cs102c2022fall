@@ -16,17 +16,705 @@ int i = 0;
 fprintf( stdout, "scream for 5 seconds\n");
 
 fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
 
-i = i +1;
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
 
-}
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
 
- 
-}
-int i = 0;
- 
- while( i < 50 )
- {
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
 
 
 
@@ -35,18 +723,215 @@ fprintf( stdout, "okay chill now\n");
 
 
 
-int a = 0;
-
- while( a < 50 )
- {
- 
- 
 fprintf( stdout, "scream for 5 seconds\n");
 
 fprintf( stdout, "hold for 5 seconds\n");
 
-a = a +1;
-}
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
+fprintf( stdout, "scream for 5 seconds\n");
+
+fprintf( stdout, "hold for 5 seconds\n");
+
 
 return 0;
 
