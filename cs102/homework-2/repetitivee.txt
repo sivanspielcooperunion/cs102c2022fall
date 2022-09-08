@@ -1,3 +1,6 @@
+/*Sivan spiel
+cs102c2022fall
+sept.7.22*/
 scream for 5 seconds
 Hold for five seconds
 scream for 5 seconds
