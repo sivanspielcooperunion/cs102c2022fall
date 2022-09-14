@@ -3,7 +3,7 @@ int main( int argc, char **argv )
 {
 
 int h = 3;
-int x = -100;
+int x = -102;
 int y = 0;
 int yp = 0;
 int yint = 0;
@@ -22,7 +22,7 @@ yint= ( ( 5*(x*x*x)-(5*x*x)+(6*x))  + ( 5*(x-h)*(x-h)*(x-h)  -  5*(x-h)*(x-h)  +
 
 ysum = ysum + yint;
 
-fprintf( stdout, "%d,%d,%d,%d\n", x, y, yp, ysum );
+fprintf( stdout, "%d;%d;%d;%d\n", x, y, yp, ysum );
 
 }
 return 0; }
