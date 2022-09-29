@@ -2,7 +2,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 #include <stdio.h>
-#include "lab6func.c"
+
 #include "lab6func.h"
 
 
@@ -25,10 +25,9 @@ int main( int argc, char **argv )
  fill(array);
  fill(array2);
  add(array,array2,array3);
- print(array);
-fprintf(stdout, "\n"); 
+ print(array); 
 print(array2);
-fprintf(stdout, "\n");
+
  print(array3);
 
 return 0;
