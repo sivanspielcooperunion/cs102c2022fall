@@ -8,7 +8,13 @@ print( """
 <body>
 <h1>my header</h1>
 """ )
-print("<p>my paragraph</p>")
+
+
+a= 0 
+while(a<100):
+	print("<p>my paragraph</p>")
+	a=a+1
+
 print( """
 </body>
 </html>
