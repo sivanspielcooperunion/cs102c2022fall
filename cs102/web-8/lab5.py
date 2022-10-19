@@ -6,12 +6,12 @@ cgitb.enable()
 
 print( "Content-type: text/html\n\n" )
 
-print( "<html><body>" )
+print( """<html><head><link rel="stylesheet" href="lab5.css" type="text/css" /></head><body>""" )
 
 form = cgi.FieldStorage()
 if "firstname" in form:
 	if "lastname" in form:
-		print( "<h1>Hi, " + form["firstname"].value + form["lastname"].value + "</h1>" )
+		print( """<h1 class="c"> Hi, """ + form["firstname"].value + form["lastname"].value + "</h1>" )
 else:
   print( "<h1>You didn't give me a name!</h1>" )
 
