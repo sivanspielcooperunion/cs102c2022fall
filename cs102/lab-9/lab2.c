@@ -8,7 +8,7 @@ int print_file(char* file);
 int main(int argc, char** argv)
 {
 FILE* file;
-char scratchpad[1000];
+char scratch[1000];
 char filename[1000] ="file.txt";
 file = fopen(filename, "r");
 
@@ -26,9 +26,9 @@ file = fopen(filename, "r");
 	}
 if(file != NULL)
 {
-	if(fgets(scratchpad, 1000, file) != NULL)
+	if(fgets(scratch, 1000, file) != NULL)
 	{
-		fprintf(stdout, "%s", scratchpad);
+		fprintf(stdout, "read line: %s", scratch);
 	}
 	fclose(file);
 }
