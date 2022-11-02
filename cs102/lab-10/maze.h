@@ -7,3 +7,6 @@ typedef struct {int place; } loation_t;
 	void set_location_x(int x);
 	int get_location_x();
 	void print_maze();
+	void move_right();
+	void move_left();
+

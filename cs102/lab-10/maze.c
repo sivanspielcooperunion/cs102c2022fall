@@ -59,3 +59,24 @@ void print_maze()
                 }
         fprintf(stdout, "\n");
 }
+void move_right()
+{
+	if((get_location_x()+1)<10)
+	{
+		if( is_wall(get_location_x()+1) !=1) 
+		{
+			location_x= location_x+1;
+		}
+	}
+}
+
+void move_left() 
+{       
+        if((get_location_x()-1)>=0)
+        {        
+                if( is_wall(get_location_x()-1) !=1)
+                {               
+                        location_x= location_x-1;
+                }       
+        }                
+}                         
