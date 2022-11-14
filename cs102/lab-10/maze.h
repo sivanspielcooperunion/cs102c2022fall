@@ -9,4 +9,5 @@ typedef struct {int place; } loation_t;
 	void print_maze();
 	void move_right();
 	void move_left();
+	void read_file();
 
