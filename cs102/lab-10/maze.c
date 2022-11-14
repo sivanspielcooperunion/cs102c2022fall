@@ -2,7 +2,7 @@
 #include "maze.h"
 static room_t room[10];
 
-static int location_x = 2;
+static int location_x;
 
 void clear_maze()
 {
