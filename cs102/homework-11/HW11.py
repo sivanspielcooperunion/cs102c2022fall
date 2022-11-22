@@ -5,11 +5,11 @@ root = Tk()
 class MyCanvas(Canvas):
     def eachFrame( this ):
       sx, sy, ex, ey = this.coords( this.ball )
-      lx, ty, rx, by = this.coords( this.rectangle )
+      qx, wy, rx, ty = this.coords( this.rectangle )
       if ey>500:
           raise(Exception("YOU LOOSE"))
       print(sx, sy, ex, ey)
-      if sx<rx and ex>lx and ey>ty and sy<by:
+      if sx<rx and ex>qx and ey>wy and sy<ty:
           this.ball_velocity_y=-1*this.ball_velocity_y    
       if sx<0 or ex>500:
           this.ball_velocity_x=-1*this.ball_velocity_x
@@ -26,18 +26,17 @@ class MyCanvas(Canvas):
       this.ball_velocity_x = 2
       this.ball_velocity_y = 2
 
-    def makeBall( this, x, y, color="blue" ):
-      return this.create_oval( x, y, x+5, y+5, fill=color )
 
     def makeRectangle( this, x, y, color="red" ):
         return this.create_rectangle( x, y, x+50, y+10, fill=color)
-    
+    def makeBall( this, x, y, color="blue" ):
+        return this.create_oval( x, y, x+5, y+5, fill=color )    
     def keyWasPressed( this, event=None ):
       key =event.keysym
       print( "just pressed:", key)
-      lx, ty, rx, by = this.coords( this.rectangle )
-      print( lx, ty, rx, by )
-      if key == "Left" and lx!=0:
+      qx, wy, rx, ty = this.coords( this.rectangle )
+      print( qx, wy, rx, ty )
+      if key == "Left" and qx!=0:
           this.move( this.rectangle, -25, 0)
       if key == "Right" and rx!=500:
           this.move( this.rectangle, 25, 0)
