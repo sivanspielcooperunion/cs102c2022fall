@@ -1,3 +1,6 @@
+#Sivan spiel
+#cs102c2022fall
+
 #!/usr/bin/python
 from intersect import *
 
